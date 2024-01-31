@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [IT-CUBE](https://github.com/IslamLessom/it-cube)
+- 🔭 I’m currently working on [Frontend Course](https://github.com/IslamLessom/advanced_frontend)
 
 - 🌱 I’m currently learning **Express**
 
