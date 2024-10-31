@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Frontend Course](https://github.com/IslamLessom/advanced_frontend)
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Full Stack**
 
 - 🤝 I’m looking for help with [Backend](https://github.com/IslamLessom/it-cube)
 
