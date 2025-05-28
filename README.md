@@ -2,7 +2,7 @@
 <h1 align="center">👋 Привет, я Ислам Гасанов</h1>
 <h3 align="center">Frontend / Full Stack разработчик из России</h3>
 <p align="center">
-  <a href="https://islamgasanowfrontend.netlify.app/" target="_blank">🌐 Портфолио</a> • 
+  <a href="#" target="_blank">🌐 Портфолио</a> • 
   <a href="mailto:mem.m.1979@mail.ru">📧 Email</a>
 </p>
 
@@ -12,12 +12,9 @@
 
 ## 🚀 О себе
 
-- 🔭 Сейчас работаю над курсом: [Advanced Frontend](https://github.com/IslamLessom/advanced_frontend)  
-- 🌱 Изучаю Full Stack (Node.js, Django, PostgreSQL)  
-- 🤝 Ищу помощь в Backend проекте: [It Cube](https://github.com/IslamLessom/it-cube)  
-- 💬 Можете спросить меня про **React, TypeScript, UI/UX**  
-- ✍️ Также я пишу **книгу**  
-- 📌 Следи за мной в [Instagram](https://instagram.com/gasanow.official)
+- 🔭 Сейчас работаю на проете МГУ  
+- 🌱 Работаю как Full-stack разработчик - react + nest
+- ✍️ Также я пишу **сборник стихов**  
 
 ---
 
