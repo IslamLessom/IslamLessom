@@ -6,8 +6,6 @@
   <a href="mailto:mem.m.1979@mail.ru">📧 Email</a>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ---
 
 ## 🚀 О себе
